@@ -134,20 +134,6 @@ This project is suitable for:
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of the chatbot interaction here.
-
-Example:
-
-```text
-screenshots/
-├── chatbot_start.png
-├── chatbot_conversation.png
-```
-
----
-
 ## 👨‍💻 Author
 
 **Jammikuntla Spurthi Sree**  
